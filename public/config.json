@@ -31,7 +31,7 @@
         }
     },
     "configurationArguments": {
-      "applicationExtensionKey": "__application_key_from_appcenter_here__",
+      "applicationExtensionKey": "f5a5490b-6c5b-430e-abe2-9441a6c85f86",
       "save": {
         "url": "hhttps://insightscbb.herokuapp.com/journeybuilder/save",
           "verb": "POST",
